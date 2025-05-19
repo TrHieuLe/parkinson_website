@@ -1,0 +1,61 @@
+{
+    "dass21": {
+        "name": "DASS-21",
+        "questions": [
+            "Tôi nhận thấy khó mà nghỉ ngơi",
+            "Tôi thấy mình bị khô miệng",  
+            "Tôi không thấy có một cảm giác lạc quan nào cả",
+            "Tôi bị khó thở (thở nhanh, khó thở mà không do làm việc mệt)",
+            "Tôi thấy khó mà bắt tay vào làm công việc",
+            "Tôi đã phản ứng cách quá lố khi có những sự việc xảy ra",
+            "Tay tôi bị run",
+            "Tôi thấy mình đã dùng quá nhiều năng lực vào việc lo lắng",
+            "Tôi lo mình đến những nơi mà tôi có thể bị hốt hoảng và tự làm mất mặt",
+            "Tôi thấy tương lai mình chả có gì để mong chờ cả",
+            "Tôi thấy bồn chồn",
+            "Tôi thấy khó mà thư giãn",
+            "Tôi thấy mình xuống tinh thần và buồn rầu",
+            "Tôi thấy thiếu kiên nhẫn với những điều cản trở việc tôi đang làm",
+            "Tôi thấy mình gần như bị hốt hoảng",
+            "Tôi không thấy hăng hái để làm bất cứ chuyện gì",
+            "Tôi thấy mình là người kém giá trị",
+            "Tôi thấy mình rất dễ nhạy cảm",
+            "Tôi thấy tim mình đập nhanh, đập hụt nhịp mà không do làm việc mệt",
+            "Tôi cảm thấy sợ vô cớ",
+            "Tôi cảm thấy cuộc sống mình không có ý nghĩa"
+        ],
+        "choices": [
+            "Không xảy ra",
+            "Thỉnh thoảng",
+            "Thường xảy ra",
+            "Rất thường xảy ra"
+        ],
+        "scores": ["depression", "anxiety", "stress"]
+    },
+    "parkinson": {
+      "name": "parkinson",
+      "questions": [
+          "Bạn có thường xuyên bị run tay khi nghỉ ngơi (không làm gì, tay đặt tự nhiên)?",
+          "Bạn có cảm thấy cứng cơ hoặc khó cử động các khớp, nhất là khi vừa thức dậy?",  
+          "Khi đi bộ, bạn có cảm giác bị kéo chân hoặc bước đi ngắn và chậm lại không?",
+          "Bạn có thấy giảm biểu cảm khuôn mặt (người khác bảo bạn ít cười, mặt đơ)?",
+          "Bạn có gặp khó khăn khi viết chữ, chữ nhỏ dần và khó điều khiển nét chữ?",
+          "Bạn có gặp tình trạng táo bón kéo dài (>3 ngày không đi đại tiện)?",
+          "Bạn có thấy mình bị giảm khả năng ngửi mùi (thức ăn, nước hoa)?",
+          "Bạn có bị rối loạn giấc ngủ, ví dụ như cử động nhiều khi ngủ, mơ hành động, ngã khỏi ",
+          "Bạn có cảm thấy mệt mỏi bất thường dù ngủ đủ, không rõ nguyên nhân?",
+          "Bạn có gặp trầm cảm nhẹ hoặc cảm giác chán nản, mất động lực?",
+          "Bạn có bị giảm trí nhớ nhẹ hoặc khó tập trung, suy nghĩ chậm gần đây?",
+          "Bạn có gặp khó khăn trong việc mặc quần áo, đánh răng, ăn uống?",
+          "Bạn có bị rối loạn thăng bằng, dễ vấp ngã, đặc biệt khi quay người nhanh?",
+          "Bạn có đang sử dụng thuốc điều trị bệnh thần kinh, tâm thần, hoặc đã được chẩn đoán Parkinson?"
+      ],
+      "choices": [
+          "Không",
+          "Thi thoảng",
+          "Thường xuyên",
+          "Gần như liên tục"
+      ],
+      "scores": ["parkinson"]
+    }
+}

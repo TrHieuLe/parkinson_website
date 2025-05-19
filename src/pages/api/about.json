@@ -1,0 +1,50 @@
+[
+    { 
+        "id": 1, 
+        "name": "Nguyễn Thị Phương Thanh", 
+        "describe": "Leader nhóm - SV Khoa Kinh tế - Quản lí",
+        "imgLink": "/avatar1.jpg" 
+    },
+    { 
+        "id": 2, 
+        "name": "Nguyễn Thị Diễm Quỳnh", 
+        "describe": "SV Khoa Kinh tế - Quản lí",
+        "imgLink": "/avatar2.jpg" 
+    },
+    { 
+        "id": 3, 
+        "name": "Lã Hoàng Yến Nhi", 
+        "describe": "SV Học Viện Ngân Hàng - chuyên ngành Kinh tế đầu tư",
+        "imgLink": "/avatar3.jpg" 
+    },
+    { 
+        "id": 4, 
+        "name": "Lê Trung Hiếu", 
+        "describe": "SV Khoa Điện - Điện tử",
+        "imgLink": "/avatar4.jpg" 
+    },    
+    { 
+        "id": 5, 
+        "name": "Nguyễn Viết Hiệp", 
+        "describe": "SV Khoa Điện - Điện tử",
+        "imgLink": "/avatar5.jpg" 
+    },
+    { 
+        "id": 6, 
+        "name": "Ts Ngô Quang Vĩ", 
+        "describe": "GVHD dự án",
+        "imgLink": "/avatar6.jpg" 
+    },
+    { 
+        "id": 7, 
+        "name": "Ts Nguyễn Thị Oanh", 
+        "describe": "Mentor dự án",
+        "imgLink": "/avatar7.jpg" 
+    },
+    {
+        "id": 8,
+        "name": "Ts Nguyễn Đình Trinh",
+        "describe": "Cố vấn chuyên môn",
+        "imgLink": "/avatar8.png"
+    }
+]

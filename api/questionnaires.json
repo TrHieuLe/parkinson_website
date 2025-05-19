@@ -1,0 +1,14 @@
+{
+    "dass21": {
+        "name": "DASS-21 (Trầm cảm, lo âu, stress)",
+        "content": "DASS-21 (Trầm cảm, lo âu, stress) là một công cụ đánh giá tâm lý được sử dụng để đo lường mức độ trầm cảm, lo âu và căng thẳng của một cá nhân.",
+        "number": 21,
+        "time": 2
+    },
+    "parkinson": {
+        "name": "Câu hỏi đánh giá Parkinson",
+        "content": "Đánh giá Parkinson bằng các câu hỏi tâm lí",
+        "number": 15,
+        "time": 2
+    }
+}

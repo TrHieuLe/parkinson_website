@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  /* color-scheme: only light; */
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+@media (prefers-color-scheme: dark) {
+  /* :root { */
+    /* --background: #0a0a0a;
+    --foreground: #ededed; */
+  /* } */
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: sans-serif, Arial, Helvetica;
+}
+
+@layer components {
+  .p-res {
+    @apply p-4 md:p-9 md:px-20
+  }
+
+  .question {
+    @apply p-6 sm:p-11 w-11/12 sm:w-10/12
+  }
+
+  .button-question {
+    @apply p-2 px-5 text-center rounded-md border-2 self-center hover:bg-gray-300
+  }
+}

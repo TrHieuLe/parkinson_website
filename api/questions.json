@@ -1,0 +1,596 @@
+[
+    {
+        "question": "Câu 1: Tôi thấy khó mà thoải mái được",
+        "choices": [
+            "Không bao giờ",
+            "Thỉnh thoảng",
+            "Thường xuyên",
+            "Gần như luôn luôn"
+        ]
+    },
+    {
+        "question": "Câu 2: Tôi bị khô miệng",
+        "choices": [
+            "Không bao giờ",
+            "Thỉnh thoảng",
+            "Thường xuyên",
+            "Gần như luôn luôn"
+        ]
+    },
+    {
+        "question": "Câu 3: Tôi dường như chẳng có chút cảm xúc tích cực nào",
+        "choices": [
+            "Không bao giờ",
+            "Thỉnh thoảng",
+            "Thường xuyên",
+            "Gần như luôn luôn"
+        ]
+    },
+    {
+        "question": "Câu 4: Tôi bị rối loạn nhịp thở (thở gấp, khó thở dù chẳng làm việc gì nặng)",
+        "choices": [
+            "Không bao giờ",
+            "Thỉnh thoảng",
+            "Thường xuyên",
+            "Gần như luôn luôn"
+        ]
+    },
+    {
+        "question": "Câu 5: Tôi thấy khó bắt tay vào công việc",
+        "choices": [
+            "Không bao giờ",
+            "Thỉnh thoảng",
+            "Thường xuyên",
+            "Gần như luôn luôn"
+        ]
+    },
+    {
+        "question": "Câu 6: Tôi có xu hướng phản ứng thái quá với mọi tình huống",
+        "choices": [
+            "Không bao giờ",
+            "Thỉnh thoảng",
+            "Thường xuyên",
+            "Gần như luôn luôn"
+        ]
+    },
+    {
+        "question": "Câu 7: Tôi bị ra mồ hôi (chẳng hạn như mồ hôi tay…)",
+        "choices": [
+            "Không bao giờ",
+            "Thỉnh thoảng",
+            "Thường xuyên",
+            "Gần như luôn luôn"
+        ]
+    },
+    {
+        "question": "Câu 8: Tôi thấy mình đang suy nghĩ quá nhiều",
+        "choices": [
+            "Không bao giờ",
+            "Thỉnh thoảng",
+            "Thường xuyên",
+            "Gần như luôn luôn"
+        ]
+    },
+    {
+        "question": "Câu 9: Tôi lo lắng về những tình huống có thể làm tôi hoảng sợ hoặc biến tôi thành trò cười",
+        "choices": [
+            "Không bao giờ",
+            "Thỉnh thoảng",
+            "Thường xuyên",
+            "Gần như luôn luôn"
+        ]
+    },
+    {
+        "question": "Câu 10: Tôi thấy mình chẳng có gì để mong đợi cả",
+        "choices": [
+            "Không bao giờ",
+            "Thỉnh thoảng",
+            "Thường xuyên",
+            "Gần như luôn luôn"
+        ]
+    },
+    {
+        "question": "Câu 11: Tôi thấy bản thân dễ bị kích động",
+        "choices": [
+            "Không bao giờ",
+            "Thỉnh thoảng",
+            "Thường xuyên",
+            "Gần như luôn luôn"
+        ]
+    },
+    {
+        "question": "Câu 12: Tôi thấy khó thư giãn được",
+        "choices": [
+            "Không bao giờ",
+            "Thỉnh thoảng",
+            "Thường xuyên",
+            "Gần như luôn luôn"
+        ]
+    },
+    {
+        "question": "Câu 13: Tôi cảm thấy chán nản, thất vọng",
+        "choices": [
+            "Không bao giờ",
+            "Thỉnh thoảng",
+            "Thường xuyên",
+            "Gần như luôn luôn"
+        ]
+    },
+    {
+        "question": "Câu 14: Tôi không chấp nhận được việc có cái gì đó xen vào cản trở việc tôi đang làm",
+        "choices": [
+            "Không bao giờ",
+            "Thỉnh thoảng",
+            "Thường xuyên",
+            "Gần như luôn luôn"
+        ]
+    },
+    {
+        "question": "Câu 15: Tôi thấy mình gần như hoảng loạn",
+        "choices": [
+            "Không bao giờ",
+            "Thỉnh thoảng",
+            "Thường xuyên",
+            "Gần như luôn luôn"
+        ]
+    },
+    {
+        "question": "Câu 16: Tôi không thấy hăng hái với bất kỳ việc gì nữa",
+        "choices": [
+            "Không bao giờ",
+            "Thỉnh thoảng",
+            "Thường xuyên",
+            "Gần như luôn luôn"
+        ]
+    },
+    {
+        "question": "Câu 17: Tôi cảm thấy mình chẳng đáng làm người",
+        "choices": [
+            "Không bao giờ",
+            "Thỉnh thoảng",
+            "Thường xuyên",
+            "Gần như luôn luôn"
+        ]
+    },
+    {
+        "question": "Câu 18: Tôi thấy mình khá dễ phật ý, tự ái",
+        "choices": [
+            "Không bao giờ",
+            "Thỉnh thoảng",
+            "Thường xuyên",
+            "Gần như luôn luôn"
+        ]
+    },
+    {
+        "question": "Câu 19: Tôi nghe thấy rõ tiếng nhịp tim dù chẳng làm việc gì cả (ví dụ, tiếng nhịp tim tăng, tiếng tim loạn nhịp)",
+        "choices": [
+            "Không bao giờ",
+            "Thỉnh thoảng",
+            "Thường xuyên",
+            "Gần như luôn luôn"
+        ]
+    },
+    {
+        "question": "Câu 20: Tôi hay sợ vô cớ",
+        "choices": [
+            "Không bao giờ",
+            "Thỉnh thoảng",
+            "Thường xuyên",
+            "Gần như luôn luôn"
+        ]
+    },
+    {
+        "question": "Câu 21: Tôi thấy cuộc sống vô nghĩa",
+        "choices": [
+            "Không bao giờ",
+            "Thỉnh thoảng",
+            "Thường xuyên",
+            "Gần như luôn luôn"
+        ]
+    },
+    {
+        "question": "Câu 22: Trong tháng qua, bạn sẽ đánh giá chất lượng giấc ngủ của mình như thế nào?",
+        "choices": [
+            "Rất tốt",
+            "Tốt",
+            "Kém",
+            "Rất kém"
+        ]
+    },
+    {
+        "question": "Câu 23: Trong tháng qua, bạn thường mất bao lâu để đi vào giấc ngủ (tính từ lúc lên giường cho đến khi bạn ngủ)?",
+        "choices": [
+            "< 15 phút",
+            "16-30 phút",
+            "31-60 phút",
+            "> 60 phút"
+        ]
+    },
+    {
+        "question": "Câu 24: Trong tháng qua, bạn thường ngủ bao nhiêu giờ mỗi đêm?",
+        "choices": [
+            "> 7 giờ",
+            "6-7 giờ",
+            "5-6 giờ",
+            "< 5 giờ"
+        ]
+    },
+    {
+        "question": "Câu 25: Trong tháng qua, bạn cảm thấy mình đã ngủ được bao nhiêu phần trăm thời gian bạn nằm trên giường?",
+        "choices": [
+            "91-100%",
+            "75-90%",
+            "50-74%",
+            "< 50%"
+        ]
+    },
+    {
+        "question": "Câu 26: Trong tháng qua, bạn có gặp phải những vấn đề nào làm giấc ngủ của bạn bị gián đoạn không?",
+        "choices": [
+            "Không có vấn đề nào",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 27: Trong tháng qua, bạn có thức giấc giữa đêm không?",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 28: Trong tháng qua, bạn có gặp phải khó khăn trong việc ngủ lại sau khi thức giấc giữa đêm không?",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 29: Trong tháng qua, bạn có thức dậy quá sớm vào buổi sáng mà không thể ngủ lại không?",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 30: Trong tháng qua, bạn có phải đi vệ sinh trong đêm không?",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 31: Trong tháng qua, bạn có gặp phải những cơn đau, khó chịu thể chất nào khiến bạn thức giấc không?",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 32: Trong tháng qua, bạn có sử dụng thuốc ngủ hoặc thuốc an thần để giúp mình ngủ không?",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 33: Trong tháng qua, bạn có cảm thấy mệt mỏi hoặc thiếu năng lượng vào ban ngày không?",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 34: Trong tháng qua, bạn có cảm thấy khó chịu hoặc dễ cáu gắt vào ban ngày không?",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 35: Trong tháng qua, bạn có cảm thấy khó tập trung vào công việc hoặc các hoạt động hàng ngày không?",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 36: Trong tháng qua, bạn thường thức dậy vào lúc nào vào buổi sáng?",
+        "choices": [
+            "Trước 7:00 sáng",
+            "7:00 - 8:00 sáng",
+            "8:00 - 9:00 sáng",
+            "Sau 9:00 sáng"
+        ]
+    },
+    {
+        "question": "Câu 37: Trong tháng qua, bạn có gặp phải khó khăn khi ngủ lại sau khi thức giấc giữa đêm không?",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 38: Trong tháng qua, bạn có cảm thấy mình đã có một giấc ngủ đủ để phục hồi sức khỏe không?",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 39: Trong tháng qua, bạn có cảm thấy rằng giấc ngủ của bạn bị gián đoạn hoặc không thoải mái?",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 40: Trong tháng qua, bạn có cảm thấy rằng giấc ngủ của bạn bị ảnh hưởng bởi những vấn đề về sức khỏe hoặc các yếu tố bên ngoài không?",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 41: Tôi đã được nhắc nhở hơn 1 lần về vấn đề dành quá nhiều thời gian online.",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 42: Tôi cảm thấy không thoải mái khi dừng online một khoảng thời gian.",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 43: Tôi thấy rằng mình đã dành thời gian online ngày càng nhiều hơn.",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 44: Tôi cảm thấy bồn chồn và khó chịu khi Internet bị ngắt kết nối hoặc không khả dụng.",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 45: Tôi cảm thấy tràn đầy năng lượng khi online.",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 46: Khoảng thời gian tôi online dài hơn dự định.",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 47: Mặc dù sử dụng Internet ảnh hưởng xấu đến các mối quan hệ, thời gian sử dụng của tôi vẫn không giảm.",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 48: Đã hơn 1 lần, tôi ngủ ít hơn 4 tiếng một ngày vì lí do online.",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 49: Tôi đã tăng đáng kể thời gian tôi dành cho việc online.",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 50: Tôi cảm thấy phiền muộn hoặc suy sụp khi dừng sử dụng Internet một khoảng thời gian nhất định.",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 51: Tôi không thể kiểm soát được sự thôi thúc muốn sử dụng.",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 52: Tôi thấy mình online thay vì dành thời gian cho bạn bè.",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 53: Tôi bị đau lưng hoặc những khó chịu về mặt thể chất khác khi dành thời gian online.",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 54: Online là suy nghĩ đầu tiên mỗi sáng khi tôi thức giấc.",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 55: Online đã ảnh hưởng tiêu cực đến việc học và hiệu suất công việc của tôi.",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 56: Tôi cảm thấy như mình đang thiếu một thứ gì đó nếu tôi không online một khoảng thời gian nhất định.",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 57: Sự tương tác của tôi với mọi người trong gia đình đã giảm vì việc sử dụng Internet.",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 58: Các hoạt động giải trí của tôi đã giảm vì việc sử dụng Internet.",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 59: Tôi không kiểm soát được sự thôi thúc online trở lại sau khi đăng xuất để làm những công việc khác.",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 60: Cuộc sống của tôi sẽ chẳng có gì vui nếu thiếu Internet.",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 61: Sử dụng Internet ảnh hưởng xấu đến sức khỏe thể chất của tôi.",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 62: Tôi đã cố dành ít thời gian online hơn nhưng đã thất bại.",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 63: Tôi tạo thói quen ngủ ít hơn để có nhiều thời gian online hơn.",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 64: Tôi càng ngày càng phải online nhiều hơn để đạt được cảm giác thỏa mãn như trước đây.",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 65: Tôi ăn uống không đúng bữa vì sử dụng Internet.",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    },
+    {
+        "question": "Câu 66: Tôi cảm thấy mệt mỏi vào ban ngày vì sử dụng Internet vào ban đêm.",
+        "choices": [
+            "Không bao giờ",
+            "Một vài lần",
+            "Thỉnh thoảng",
+            "Rất thường xuyên"
+        ]
+    }
+]

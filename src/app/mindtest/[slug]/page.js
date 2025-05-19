@@ -58,18 +58,18 @@ export default function Test({ type, typeQuestion }) {
               </div>  
             </> :
             <>
-              <Result type={ type } scores={ scores.current } />
-              <button 
-                onClick={ () => {
-                  resetScores()
-                  setStart(true)
-                  setCurrentQuestion(1)
-                }}
-                className="button-question  \
-                  p-2 px-5 mt-3 self-center rounded-md border transition" 
-              >
-                Trở lại
-              </button>
+              {/* <Result type={ type } scores={ scores.current } /> */}
+              {/* <button  */}
+              {/*   onClick={ () => { */}
+              {/*     resetScores() */}
+              {/*     setStart(true) */}
+              {/*     setCurrentQuestion(1) */}
+              {/*   }} */}
+              {/*   className="button-question  \ */}
+              {/*     p-2 px-5 mt-3 self-center rounded-md border transition"  */}
+              {/* > */}
+              {/*   Trở lại */}
+              {/* </button> */}
               <button 
                 onClick={ async () => {
                   const response = await fetch(`http://localhost:5000/run`);
